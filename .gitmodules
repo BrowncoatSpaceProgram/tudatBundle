@@ -21,7 +21,7 @@
 	url = https://github.com/tudat/json.git
 [submodule "matlabInterface"]
 	path = matlabInterface
-	url = https://github.com/tudat/tudat-matlab.git
+	url = https://github.com/BrowncoatSpaceProgram/tudat-matlab
 [submodule "nlopt"]
 	path = nlopt
 	url = https://github.com/stevengj/nlopt.git
